@@ -1,4 +1,4 @@
-# Real-Time-Voice-Scope
+# Real Time Voice Scope
 EE2026 Lab Project
 
 Task: Create a real time voice scope (audio visualiser)
